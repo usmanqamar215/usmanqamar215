@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I am currently working on developing contactless Electrodes for long term EEG monitoring and its SNR enhancement
+- 🌱 I'm currently learning Tinyml.
+- 👯 I’m looking to collaborate on RUST projects 
+- 🤔 I’m looking for help with RUST environment for microcontrollers.
+- 💬 Ask me about electronics in healthtech.
+- 📫 How to reach me: usman.shaikh@autuni.ac.nz
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can sacrifice my chess pieces for no reason.
